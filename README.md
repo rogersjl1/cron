@@ -1,2 +1,2 @@
 # cron
-Docker image based on debian that uses cron
+Docker image based on debian with cron installed
